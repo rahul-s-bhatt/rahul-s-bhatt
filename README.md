@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate Software Engineer with 3.5 years
 ---
 
 ## 🔧 **Technologies & Tools**
-- **Languages:** Java, C#, Python, JavaScript, TypeScript, Shell Scripting
+- **Languages:** Java, Spring Boot, C#, Python, JavaScript, TypeScript, Shell Scripting
 - **Backend Frameworks:** Java Spring Boot, ASP.NET Core, Node.js
 - **Frontend:** Angular, React
 - **Databases:** PostgreSQL, MySQL, MS SQL Server, Redis
