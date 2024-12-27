@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Rahul Somdatt Bhatt! 
 
-Welcome to my GitHub profile! I am a passionate Software Engineer with 3.5 years of experience specializing in **multi-tenant SaaS**, **microservices**, **Docker**, and **Kubernetes**. My expertise lies in **backend development**, leveraging cutting-edge technologies to design scalable and efficient systems.
+Welcome to my GitHub profile! I am a passionate Software Engineer with 3.5 years of experience specializing in **Multi-Tenant SaaS**, **Microservices**, **Docker**, and **Kubernetes**. My expertise lies in **Backend Development**, leveraging cutting-edge technologies to design scalable and efficient systems.
 
 ---
 
